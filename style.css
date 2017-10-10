@@ -1,0 +1,11 @@
+h2 {color: blue;}
+ul {color: magenta;}
+body {background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhtBiOB-c7hMyHtoqHGG0j9EAdDVdmgFfyatRHheosB4Lk1rqZ");}
+body, html {
+    height: 100%;
+}
+body {image-rendering: crisp-edges;}
+body {background-repeat:no-repeat;}
+body {background-position:center;}
+body {background-attachment: fixed;}
+body {background-size:cover;}
